@@ -1,4 +1,3 @@
-import logging
 class Person:
    def __init__(self, firstname, lastname):
        self.firstname = firstname
